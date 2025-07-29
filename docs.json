@@ -1,0 +1,51 @@
+{
+  "theme": "mint",
+  "name": "Documentation Landing Page",
+  "colors": {
+    "primary": "#291a40",
+    "light": "#00ade6",
+    "dark": "#00ade6"
+  },
+  "favicon": "/favicon.svg",
+  "logo": {
+    "light": "/activeviam-logo.svg",
+    "dark": "/activeviam-logo.svg",
+    "href": "https://activeviam.com"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Docs Home",
+        "href": "/index.html"
+      },
+      {
+        "label": "Platform Docs",
+        "href": "/platform-docs.html"
+      },
+      {
+        "label": "Solutions Docs",
+        "href": "/solutions-docs.html"
+      },
+      {
+        "label": "News & blog",
+        "href": "https://www.activeviam.com/news-and-blog/"
+      },
+      {
+        "label": "Support",
+        "href": "mailto:hi@mintlify.com"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Dashboard",
+      "href": "https://dashboard.mintlify.com"
+    }
+  },
+  "footer": {
+    "socials": {
+      "x": "https://x.com/mintlify",
+      "github": "https://github.com/mintlify",
+      "linkedin": "https://linkedin.com/company/mintlify"
+    }
+  }
+}
