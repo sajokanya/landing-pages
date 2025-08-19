@@ -8,17 +8,17 @@
   },
   "favicon": "/favicon.svg",
   "logo": {
-    "light": "/activeviam-logo.svg",
-    "dark": "/activeviam-logo.svg",
+    "light": "/activeviam-logo.png",
+    "dark": "/activeviam-logo.png",
     "href": "https://activeviam.com"
   },
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Platform",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Server",
             "pages": [
               "index",
               "quickstart",
